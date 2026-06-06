@@ -91,11 +91,11 @@ Open your web browser and navigate directly to **http://localhost:5173** to acce
  * **DSA Strategy Toggles:** Interactive selection dropdowns that allow developers to swap underlying execution configurations instantly between KMP and Rabin-Karp.
  * **Real-Time Analytics Metrics:** Displays clear, color-coded circular percentage badges indicating threat thresholds (Safe Green, Warning Yellow, Danger Red).
  * **Visual Match Alignment:** Injects custom CSS highlighter blocks over sections where exact substring plagiarism strings were flagged by the algorithms.
-```
 
 ---
 
-## Screenshots
+## 📸 Screenshots
+
 ![output](outputs/1.png)
 ![output](outputs/2.png)
 
@@ -105,7 +105,15 @@ Open your web browser and navigate directly to **http://localhost:5173** to acce
 Link : https://drive.google.com/file/d/1ObK5dQphlH9aA9eGNHqtvomcCglmswqs/view?usp=sharing
 
 ---
-**
-## Author**
 
-** Rakshitha A S**
+## 👤 Author
+
+**Rakshitha A S**  
+B.E. Cybersecurity |
+GitHub: [@Rakshitha262004](https://github.com/Rakshitha262004)
+
+---
+
+## 📄 License
+
+MIT License — free to use and modify.
