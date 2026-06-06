@@ -1,4 +1,3 @@
-```markdown
 # Plagiarism Verification Engine 🔍🖥️
 ### A Full-Stack String-Matching Algorithms Portfolio Asset
 
@@ -7,6 +6,7 @@ A high-performance, full-stack web application designed to evaluate document int
 ---
 
 ## 💡 Architecture & Design Philosophy
+
 Unlike bloated enterprise web tools that rely on heavy, black-box third-party dependencies, this system was engineered from the ground up to showcase pure engineering fundamentals:
 * **Backend Core:** Developed with clean, minimal Python API routes to handle sentence parsing, token clean-up, and real-time algorithmic execution.
 * **Frontend UI:** Built using raw, native CSS styling elements and modular React JS component structures to achieve a modern, responsive split-pane analytics dashboard without the build-pipeline overhead of utility frameworks.
@@ -30,7 +30,7 @@ The platform implements two classic text-processing strategies to track down pat
 ---
 
 ## 📁 Repository Structure
-```text
+
 Plagiarism-Detector-String-Matching/
 │
 ├── backend/                  # Python API Development Source
@@ -94,17 +94,18 @@ Open your web browser and navigate directly to **http://localhost:5173** to acce
 ```
 
 ---
-### Screenshots
+
+## Screenshots
 ![output](outputs/1.png)
 ![output](outputs/2.png)
 
 ---
 
-### Demo Video
+## Demo Video
 Link : https://drive.google.com/file/d/1ObK5dQphlH9aA9eGNHqtvomcCglmswqs/view?usp=sharing
 
 ---
 **
-### Author**
+## Author**
 
 ** Rakshitha A S**
